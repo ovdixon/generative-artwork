@@ -1,4 +1,4 @@
-# Generative Artowrk - Computer Assisted Drawing Machine
+# Generative Artwork - Computer Assisted Drawing Machine
 
 <div align="center">
   <img src="img/image.png" alt="Demo" width="200"/>
