@@ -1,7 +1,7 @@
 <div align="center">
   <img src="img/image.png" alt="Demo" width="200"/>
 </div>
-
+</br>
 
 Computational systems allow for the realization and expression of ideas that are impossible in other media, or in reality. In such a way, generative computer art is a medium of expression beyond the realm of conventional art, one in which difference can be created within indifference.  
 
