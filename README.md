@@ -1,5 +1,3 @@
-# Generative Artwork - Computer Assisted Drawing Machine
-
 <div align="center">
   <img src="img/image.png" alt="Demo" width="200"/>
 </div>
