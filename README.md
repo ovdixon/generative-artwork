@@ -1,11 +1,9 @@
 # Generative Artowrk - Computer Assisted Drawing Machine
 
-<div align="center">
-  <img src="img/image.png" alt="Demo" width="200"/>
-</div>
-
-![My Artwork](/img/image.png)
-
+<figure>
+  <img src="img/image.png" alt="Inspiration" width="200">
+  <figcaption>Design for Textiles by Georg Nees</figcaption>
+</figure>
 
 
 Computational systems allow for the realization and expression of ideas that are impossible in other media, or in reality. In such a way, generative computer art is a medium of expression beyond the realm of conventional art, one in which difference can be created within indifference.  
@@ -17,6 +15,11 @@ Nees was interested in the relationship between order and disorder in picture co
 This artwork served as the inspiration for my own exploration into the practice of generative computer art. I sought to create a program which would produce ordered patterns from the intersection of two seemingly disordered sets of lines. The absence of any border around the pattern is designed to evoke a sense of curiosity towards the direction and origin of the lines. The experience of being drawn into the pattern before the program generates a new pattern, is a provocative source of thought for the viewer about whether machines can produce works of artistic value.
 
 ![My Artwork](/img/series.png)
+
+<figure>
+  <img src="img/series.png" alt="Demo">
+  <figcaption>Untitled by Ollie Dixon</figcaption>
+</figure>
 
 
 ## References
